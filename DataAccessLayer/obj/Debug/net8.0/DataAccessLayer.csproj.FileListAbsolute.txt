@@ -1,0 +1,30 @@
+D:\1_fpt\5_su25\4_prn212\3_lab_assignemnt\assignment1 - Copy\FUMiniHotelSystem\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.deps.json
+D:\1_fpt\5_su25\4_prn212\3_lab_assignemnt\assignment1 - Copy\FUMiniHotelSystem\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.dll
+D:\1_fpt\5_su25\4_prn212\3_lab_assignemnt\assignment1 - Copy\FUMiniHotelSystem\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.pdb
+D:\1_fpt\5_su25\4_prn212\3_lab_assignemnt\assignment1 - Copy\FUMiniHotelSystem\DataAccessLayer\bin\Debug\net8.0\BusinessObjects.dll
+D:\1_fpt\5_su25\4_prn212\3_lab_assignemnt\assignment1 - Copy\FUMiniHotelSystem\DataAccessLayer\bin\Debug\net8.0\BusinessObjects.pdb
+D:\1_fpt\5_su25\4_prn212\3_lab_assignemnt\assignment1 - Copy\FUMiniHotelSystem\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.AssemblyReference.cache
+D:\1_fpt\5_su25\4_prn212\3_lab_assignemnt\assignment1 - Copy\FUMiniHotelSystem\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\1_fpt\5_su25\4_prn212\3_lab_assignemnt\assignment1 - Copy\FUMiniHotelSystem\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfoInputs.cache
+D:\1_fpt\5_su25\4_prn212\3_lab_assignemnt\assignment1 - Copy\FUMiniHotelSystem\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfo.cs
+D:\1_fpt\5_su25\4_prn212\3_lab_assignemnt\assignment1 - Copy\FUMiniHotelSystem\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\1_fpt\5_su25\4_prn212\3_lab_assignemnt\assignment1 - Copy\FUMiniHotelSystem\DataAccessLayer\obj\Debug\net8.0\DataAcce.E67BD773.Up2Date
+D:\1_fpt\5_su25\4_prn212\3_lab_assignemnt\assignment1 - Copy\FUMiniHotelSystem\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.dll
+D:\1_fpt\5_su25\4_prn212\3_lab_assignemnt\assignment1 - Copy\FUMiniHotelSystem\DataAccessLayer\obj\Debug\net8.0\refint\DataAccessLayer.dll
+D:\1_fpt\5_su25\4_prn212\3_lab_assignemnt\assignment1 - Copy\FUMiniHotelSystem\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.pdb
+D:\1_fpt\5_su25\4_prn212\3_lab_assignemnt\assignment1 - Copy\FUMiniHotelSystem\DataAccessLayer\obj\Debug\net8.0\ref\DataAccessLayer.dll
+D:\1_fpt\5_su25\4_prn212\2_project\assignment-1\TranNgocKhiet_SE1854_A01\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.deps.json
+D:\1_fpt\5_su25\4_prn212\2_project\assignment-1\TranNgocKhiet_SE1854_A01\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.dll
+D:\1_fpt\5_su25\4_prn212\2_project\assignment-1\TranNgocKhiet_SE1854_A01\DataAccessLayer\bin\Debug\net8.0\DataAccessLayer.pdb
+D:\1_fpt\5_su25\4_prn212\2_project\assignment-1\TranNgocKhiet_SE1854_A01\DataAccessLayer\bin\Debug\net8.0\BusinessObjects.dll
+D:\1_fpt\5_su25\4_prn212\2_project\assignment-1\TranNgocKhiet_SE1854_A01\DataAccessLayer\bin\Debug\net8.0\BusinessObjects.pdb
+D:\1_fpt\5_su25\4_prn212\2_project\assignment-1\TranNgocKhiet_SE1854_A01\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.AssemblyReference.cache
+D:\1_fpt\5_su25\4_prn212\2_project\assignment-1\TranNgocKhiet_SE1854_A01\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\1_fpt\5_su25\4_prn212\2_project\assignment-1\TranNgocKhiet_SE1854_A01\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfoInputs.cache
+D:\1_fpt\5_su25\4_prn212\2_project\assignment-1\TranNgocKhiet_SE1854_A01\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.AssemblyInfo.cs
+D:\1_fpt\5_su25\4_prn212\2_project\assignment-1\TranNgocKhiet_SE1854_A01\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\1_fpt\5_su25\4_prn212\2_project\assignment-1\TranNgocKhiet_SE1854_A01\DataAccessLayer\obj\Debug\net8.0\DataAcce.E67BD773.Up2Date
+D:\1_fpt\5_su25\4_prn212\2_project\assignment-1\TranNgocKhiet_SE1854_A01\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.dll
+D:\1_fpt\5_su25\4_prn212\2_project\assignment-1\TranNgocKhiet_SE1854_A01\DataAccessLayer\obj\Debug\net8.0\refint\DataAccessLayer.dll
+D:\1_fpt\5_su25\4_prn212\2_project\assignment-1\TranNgocKhiet_SE1854_A01\DataAccessLayer\obj\Debug\net8.0\DataAccessLayer.pdb
+D:\1_fpt\5_su25\4_prn212\2_project\assignment-1\TranNgocKhiet_SE1854_A01\DataAccessLayer\obj\Debug\net8.0\ref\DataAccessLayer.dll

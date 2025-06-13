@@ -1,0 +1,22 @@
+D:\1_fpt\5_su25\4_prn212\3_lab_assignemnt\assignment1 - Copy\FUMiniHotelSystem\BusinessObjects\bin\Debug\net8.0\BusinessObjects.deps.json
+D:\1_fpt\5_su25\4_prn212\3_lab_assignemnt\assignment1 - Copy\FUMiniHotelSystem\BusinessObjects\bin\Debug\net8.0\BusinessObjects.dll
+D:\1_fpt\5_su25\4_prn212\3_lab_assignemnt\assignment1 - Copy\FUMiniHotelSystem\BusinessObjects\bin\Debug\net8.0\BusinessObjects.pdb
+D:\1_fpt\5_su25\4_prn212\3_lab_assignemnt\assignment1 - Copy\FUMiniHotelSystem\BusinessObjects\obj\Debug\net8.0\BusinessObjects.GeneratedMSBuildEditorConfig.editorconfig
+D:\1_fpt\5_su25\4_prn212\3_lab_assignemnt\assignment1 - Copy\FUMiniHotelSystem\BusinessObjects\obj\Debug\net8.0\BusinessObjects.AssemblyInfoInputs.cache
+D:\1_fpt\5_su25\4_prn212\3_lab_assignemnt\assignment1 - Copy\FUMiniHotelSystem\BusinessObjects\obj\Debug\net8.0\BusinessObjects.AssemblyInfo.cs
+D:\1_fpt\5_su25\4_prn212\3_lab_assignemnt\assignment1 - Copy\FUMiniHotelSystem\BusinessObjects\obj\Debug\net8.0\BusinessObjects.csproj.CoreCompileInputs.cache
+D:\1_fpt\5_su25\4_prn212\3_lab_assignemnt\assignment1 - Copy\FUMiniHotelSystem\BusinessObjects\obj\Debug\net8.0\BusinessObjects.dll
+D:\1_fpt\5_su25\4_prn212\3_lab_assignemnt\assignment1 - Copy\FUMiniHotelSystem\BusinessObjects\obj\Debug\net8.0\refint\BusinessObjects.dll
+D:\1_fpt\5_su25\4_prn212\3_lab_assignemnt\assignment1 - Copy\FUMiniHotelSystem\BusinessObjects\obj\Debug\net8.0\BusinessObjects.pdb
+D:\1_fpt\5_su25\4_prn212\3_lab_assignemnt\assignment1 - Copy\FUMiniHotelSystem\BusinessObjects\obj\Debug\net8.0\ref\BusinessObjects.dll
+D:\1_fpt\5_su25\4_prn212\2_project\assignment-1\TranNgocKhiet_SE1854_A01\BusinessObjects\bin\Debug\net8.0\BusinessObjects.deps.json
+D:\1_fpt\5_su25\4_prn212\2_project\assignment-1\TranNgocKhiet_SE1854_A01\BusinessObjects\bin\Debug\net8.0\BusinessObjects.dll
+D:\1_fpt\5_su25\4_prn212\2_project\assignment-1\TranNgocKhiet_SE1854_A01\BusinessObjects\bin\Debug\net8.0\BusinessObjects.pdb
+D:\1_fpt\5_su25\4_prn212\2_project\assignment-1\TranNgocKhiet_SE1854_A01\BusinessObjects\obj\Debug\net8.0\BusinessObjects.GeneratedMSBuildEditorConfig.editorconfig
+D:\1_fpt\5_su25\4_prn212\2_project\assignment-1\TranNgocKhiet_SE1854_A01\BusinessObjects\obj\Debug\net8.0\BusinessObjects.AssemblyInfoInputs.cache
+D:\1_fpt\5_su25\4_prn212\2_project\assignment-1\TranNgocKhiet_SE1854_A01\BusinessObjects\obj\Debug\net8.0\BusinessObjects.AssemblyInfo.cs
+D:\1_fpt\5_su25\4_prn212\2_project\assignment-1\TranNgocKhiet_SE1854_A01\BusinessObjects\obj\Debug\net8.0\BusinessObjects.csproj.CoreCompileInputs.cache
+D:\1_fpt\5_su25\4_prn212\2_project\assignment-1\TranNgocKhiet_SE1854_A01\BusinessObjects\obj\Debug\net8.0\BusinessObjects.dll
+D:\1_fpt\5_su25\4_prn212\2_project\assignment-1\TranNgocKhiet_SE1854_A01\BusinessObjects\obj\Debug\net8.0\refint\BusinessObjects.dll
+D:\1_fpt\5_su25\4_prn212\2_project\assignment-1\TranNgocKhiet_SE1854_A01\BusinessObjects\obj\Debug\net8.0\BusinessObjects.pdb
+D:\1_fpt\5_su25\4_prn212\2_project\assignment-1\TranNgocKhiet_SE1854_A01\BusinessObjects\obj\Debug\net8.0\ref\BusinessObjects.dll

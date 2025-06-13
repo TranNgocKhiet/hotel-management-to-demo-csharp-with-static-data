@@ -1,0 +1,92 @@
+D:\1_fpt\5_su25\4_prn212\3_lab_assignemnt\assignment1 - Copy\FUMiniHotelSystem\FUMiniHotelSystem\bin\Debug\net8.0-windows\TranNgocKhietWPF.exe
+D:\1_fpt\5_su25\4_prn212\3_lab_assignemnt\assignment1 - Copy\FUMiniHotelSystem\FUMiniHotelSystem\bin\Debug\net8.0-windows\TranNgocKhietWPF.deps.json
+D:\1_fpt\5_su25\4_prn212\3_lab_assignemnt\assignment1 - Copy\FUMiniHotelSystem\FUMiniHotelSystem\bin\Debug\net8.0-windows\TranNgocKhietWPF.runtimeconfig.json
+D:\1_fpt\5_su25\4_prn212\3_lab_assignemnt\assignment1 - Copy\FUMiniHotelSystem\FUMiniHotelSystem\bin\Debug\net8.0-windows\TranNgocKhietWPF.dll
+D:\1_fpt\5_su25\4_prn212\3_lab_assignemnt\assignment1 - Copy\FUMiniHotelSystem\FUMiniHotelSystem\bin\Debug\net8.0-windows\TranNgocKhietWPF.pdb
+D:\1_fpt\5_su25\4_prn212\3_lab_assignemnt\assignment1 - Copy\FUMiniHotelSystem\FUMiniHotelSystem\bin\Debug\net8.0-windows\BusinessObjects.dll
+D:\1_fpt\5_su25\4_prn212\3_lab_assignemnt\assignment1 - Copy\FUMiniHotelSystem\FUMiniHotelSystem\bin\Debug\net8.0-windows\DataAccessLayer.dll
+D:\1_fpt\5_su25\4_prn212\3_lab_assignemnt\assignment1 - Copy\FUMiniHotelSystem\FUMiniHotelSystem\bin\Debug\net8.0-windows\Repositories.dll
+D:\1_fpt\5_su25\4_prn212\3_lab_assignemnt\assignment1 - Copy\FUMiniHotelSystem\FUMiniHotelSystem\bin\Debug\net8.0-windows\Services.dll
+D:\1_fpt\5_su25\4_prn212\3_lab_assignemnt\assignment1 - Copy\FUMiniHotelSystem\FUMiniHotelSystem\bin\Debug\net8.0-windows\BusinessObjects.pdb
+D:\1_fpt\5_su25\4_prn212\3_lab_assignemnt\assignment1 - Copy\FUMiniHotelSystem\FUMiniHotelSystem\bin\Debug\net8.0-windows\Repositories.pdb
+D:\1_fpt\5_su25\4_prn212\3_lab_assignemnt\assignment1 - Copy\FUMiniHotelSystem\FUMiniHotelSystem\bin\Debug\net8.0-windows\Services.pdb
+D:\1_fpt\5_su25\4_prn212\3_lab_assignemnt\assignment1 - Copy\FUMiniHotelSystem\FUMiniHotelSystem\bin\Debug\net8.0-windows\DataAccessLayer.pdb
+D:\1_fpt\5_su25\4_prn212\3_lab_assignemnt\assignment1 - Copy\FUMiniHotelSystem\FUMiniHotelSystem\obj\Debug\net8.0-windows\TranNgocKhietWPF.csproj.AssemblyReference.cache
+D:\1_fpt\5_su25\4_prn212\3_lab_assignemnt\assignment1 - Copy\FUMiniHotelSystem\FUMiniHotelSystem\obj\Debug\net8.0-windows\LoginWindow.g.cs
+D:\1_fpt\5_su25\4_prn212\3_lab_assignemnt\assignment1 - Copy\FUMiniHotelSystem\FUMiniHotelSystem\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\1_fpt\5_su25\4_prn212\3_lab_assignemnt\assignment1 - Copy\FUMiniHotelSystem\FUMiniHotelSystem\obj\Debug\net8.0-windows\App.g.cs
+D:\1_fpt\5_su25\4_prn212\3_lab_assignemnt\assignment1 - Copy\FUMiniHotelSystem\FUMiniHotelSystem\obj\Debug\net8.0-windows\TranNgocKhietWPF_MarkupCompile.cache
+D:\1_fpt\5_su25\4_prn212\3_lab_assignemnt\assignment1 - Copy\FUMiniHotelSystem\FUMiniHotelSystem\obj\Debug\net8.0-windows\TranNgocKhietWPF_MarkupCompile.lref
+D:\1_fpt\5_su25\4_prn212\3_lab_assignemnt\assignment1 - Copy\FUMiniHotelSystem\FUMiniHotelSystem\obj\Debug\net8.0-windows\LoginWindow.baml
+D:\1_fpt\5_su25\4_prn212\3_lab_assignemnt\assignment1 - Copy\FUMiniHotelSystem\FUMiniHotelSystem\obj\Debug\net8.0-windows\MainWindow.baml
+D:\1_fpt\5_su25\4_prn212\3_lab_assignemnt\assignment1 - Copy\FUMiniHotelSystem\FUMiniHotelSystem\obj\Debug\net8.0-windows\TranNgocKhietWPF.g.resources
+D:\1_fpt\5_su25\4_prn212\3_lab_assignemnt\assignment1 - Copy\FUMiniHotelSystem\FUMiniHotelSystem\obj\Debug\net8.0-windows\TranNgocKhietWPF.GeneratedMSBuildEditorConfig.editorconfig
+D:\1_fpt\5_su25\4_prn212\3_lab_assignemnt\assignment1 - Copy\FUMiniHotelSystem\FUMiniHotelSystem\obj\Debug\net8.0-windows\TranNgocKhietWPF.AssemblyInfoInputs.cache
+D:\1_fpt\5_su25\4_prn212\3_lab_assignemnt\assignment1 - Copy\FUMiniHotelSystem\FUMiniHotelSystem\obj\Debug\net8.0-windows\TranNgocKhietWPF.AssemblyInfo.cs
+D:\1_fpt\5_su25\4_prn212\3_lab_assignemnt\assignment1 - Copy\FUMiniHotelSystem\FUMiniHotelSystem\obj\Debug\net8.0-windows\TranNgocKhietWPF.csproj.CoreCompileInputs.cache
+D:\1_fpt\5_su25\4_prn212\3_lab_assignemnt\assignment1 - Copy\FUMiniHotelSystem\FUMiniHotelSystem\obj\Debug\net8.0-windows\TranNgoc.F6F0691B.Up2Date
+D:\1_fpt\5_su25\4_prn212\3_lab_assignemnt\assignment1 - Copy\FUMiniHotelSystem\FUMiniHotelSystem\obj\Debug\net8.0-windows\TranNgocKhietWPF.dll
+D:\1_fpt\5_su25\4_prn212\3_lab_assignemnt\assignment1 - Copy\FUMiniHotelSystem\FUMiniHotelSystem\obj\Debug\net8.0-windows\refint\TranNgocKhietWPF.dll
+D:\1_fpt\5_su25\4_prn212\3_lab_assignemnt\assignment1 - Copy\FUMiniHotelSystem\FUMiniHotelSystem\obj\Debug\net8.0-windows\TranNgocKhietWPF.pdb
+D:\1_fpt\5_su25\4_prn212\3_lab_assignemnt\assignment1 - Copy\FUMiniHotelSystem\FUMiniHotelSystem\obj\Debug\net8.0-windows\TranNgocKhietWPF.genruntimeconfig.cache
+D:\1_fpt\5_su25\4_prn212\3_lab_assignemnt\assignment1 - Copy\FUMiniHotelSystem\FUMiniHotelSystem\obj\Debug\net8.0-windows\ref\TranNgocKhietWPF.dll
+D:\1_fpt\5_su25\4_prn212\2_project\assignment-1\TranNgocKhiet_SE1854_A01\TranNgocKhietWPF\bin\Debug\net8.0-windows\TranNgocKhietWPF.exe
+D:\1_fpt\5_su25\4_prn212\2_project\assignment-1\TranNgocKhiet_SE1854_A01\TranNgocKhietWPF\bin\Debug\net8.0-windows\TranNgocKhietWPF.deps.json
+D:\1_fpt\5_su25\4_prn212\2_project\assignment-1\TranNgocKhiet_SE1854_A01\TranNgocKhietWPF\bin\Debug\net8.0-windows\TranNgocKhietWPF.runtimeconfig.json
+D:\1_fpt\5_su25\4_prn212\2_project\assignment-1\TranNgocKhiet_SE1854_A01\TranNgocKhietWPF\bin\Debug\net8.0-windows\TranNgocKhietWPF.dll
+D:\1_fpt\5_su25\4_prn212\2_project\assignment-1\TranNgocKhiet_SE1854_A01\TranNgocKhietWPF\bin\Debug\net8.0-windows\TranNgocKhietWPF.pdb
+D:\1_fpt\5_su25\4_prn212\2_project\assignment-1\TranNgocKhiet_SE1854_A01\TranNgocKhietWPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
+D:\1_fpt\5_su25\4_prn212\2_project\assignment-1\TranNgocKhiet_SE1854_A01\TranNgocKhietWPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\1_fpt\5_su25\4_prn212\2_project\assignment-1\TranNgocKhiet_SE1854_A01\TranNgocKhietWPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\1_fpt\5_su25\4_prn212\2_project\assignment-1\TranNgocKhiet_SE1854_A01\TranNgocKhietWPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Json.dll
+D:\1_fpt\5_su25\4_prn212\2_project\assignment-1\TranNgocKhiet_SE1854_A01\TranNgocKhietWPF\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\1_fpt\5_su25\4_prn212\2_project\assignment-1\TranNgocKhiet_SE1854_A01\TranNgocKhietWPF\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+D:\1_fpt\5_su25\4_prn212\2_project\assignment-1\TranNgocKhiet_SE1854_A01\TranNgocKhietWPF\bin\Debug\net8.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\1_fpt\5_su25\4_prn212\2_project\assignment-1\TranNgocKhiet_SE1854_A01\TranNgocKhietWPF\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+D:\1_fpt\5_su25\4_prn212\2_project\assignment-1\TranNgocKhiet_SE1854_A01\TranNgocKhietWPF\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+D:\1_fpt\5_su25\4_prn212\2_project\assignment-1\TranNgocKhiet_SE1854_A01\TranNgocKhietWPF\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+D:\1_fpt\5_su25\4_prn212\2_project\assignment-1\TranNgocKhiet_SE1854_A01\TranNgocKhietWPF\bin\Debug\net8.0-windows\System.Text.Json.dll
+D:\1_fpt\5_su25\4_prn212\2_project\assignment-1\TranNgocKhiet_SE1854_A01\TranNgocKhietWPF\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\1_fpt\5_su25\4_prn212\2_project\assignment-1\TranNgocKhiet_SE1854_A01\TranNgocKhietWPF\bin\Debug\net8.0-windows\BusinessObjects.dll
+D:\1_fpt\5_su25\4_prn212\2_project\assignment-1\TranNgocKhiet_SE1854_A01\TranNgocKhietWPF\bin\Debug\net8.0-windows\DataAccessLayer.dll
+D:\1_fpt\5_su25\4_prn212\2_project\assignment-1\TranNgocKhiet_SE1854_A01\TranNgocKhietWPF\bin\Debug\net8.0-windows\Repositories.dll
+D:\1_fpt\5_su25\4_prn212\2_project\assignment-1\TranNgocKhiet_SE1854_A01\TranNgocKhietWPF\bin\Debug\net8.0-windows\Services.dll
+D:\1_fpt\5_su25\4_prn212\2_project\assignment-1\TranNgocKhiet_SE1854_A01\TranNgocKhietWPF\bin\Debug\net8.0-windows\BusinessObjects.pdb
+D:\1_fpt\5_su25\4_prn212\2_project\assignment-1\TranNgocKhiet_SE1854_A01\TranNgocKhietWPF\bin\Debug\net8.0-windows\Repositories.pdb
+D:\1_fpt\5_su25\4_prn212\2_project\assignment-1\TranNgocKhiet_SE1854_A01\TranNgocKhietWPF\bin\Debug\net8.0-windows\Services.pdb
+D:\1_fpt\5_su25\4_prn212\2_project\assignment-1\TranNgocKhiet_SE1854_A01\TranNgocKhietWPF\bin\Debug\net8.0-windows\DataAccessLayer.pdb
+D:\1_fpt\5_su25\4_prn212\2_project\assignment-1\TranNgocKhiet_SE1854_A01\TranNgocKhietWPF\obj\Debug\net8.0-windows\TranNgocKhietWPF.csproj.AssemblyReference.cache
+D:\1_fpt\5_su25\4_prn212\2_project\assignment-1\TranNgocKhiet_SE1854_A01\TranNgocKhietWPF\obj\Debug\net8.0-windows\RoomInformationDialog.baml
+D:\1_fpt\5_su25\4_prn212\2_project\assignment-1\TranNgocKhiet_SE1854_A01\TranNgocKhietWPF\obj\Debug\net8.0-windows\AdminWindow.g.cs
+D:\1_fpt\5_su25\4_prn212\2_project\assignment-1\TranNgocKhiet_SE1854_A01\TranNgocKhietWPF\obj\Debug\net8.0-windows\BookingReservationHistoryPage.g.cs
+D:\1_fpt\5_su25\4_prn212\2_project\assignment-1\TranNgocKhiet_SE1854_A01\TranNgocKhietWPF\obj\Debug\net8.0-windows\CustomerDialog.g.cs
+D:\1_fpt\5_su25\4_prn212\2_project\assignment-1\TranNgocKhiet_SE1854_A01\TranNgocKhietWPF\obj\Debug\net8.0-windows\CustomerListPage.g.cs
+D:\1_fpt\5_su25\4_prn212\2_project\assignment-1\TranNgocKhiet_SE1854_A01\TranNgocKhietWPF\obj\Debug\net8.0-windows\LoginWindow.g.cs
+D:\1_fpt\5_su25\4_prn212\2_project\assignment-1\TranNgocKhiet_SE1854_A01\TranNgocKhietWPF\obj\Debug\net8.0-windows\RoomInformationDialog.g.cs
+D:\1_fpt\5_su25\4_prn212\2_project\assignment-1\TranNgocKhiet_SE1854_A01\TranNgocKhietWPF\obj\Debug\net8.0-windows\RoomInformationListPage.g.cs
+D:\1_fpt\5_su25\4_prn212\2_project\assignment-1\TranNgocKhiet_SE1854_A01\TranNgocKhietWPF\obj\Debug\net8.0-windows\UserProfileEditPage.g.cs
+D:\1_fpt\5_su25\4_prn212\2_project\assignment-1\TranNgocKhiet_SE1854_A01\TranNgocKhietWPF\obj\Debug\net8.0-windows\UserWindow.g.cs
+D:\1_fpt\5_su25\4_prn212\2_project\assignment-1\TranNgocKhiet_SE1854_A01\TranNgocKhietWPF\obj\Debug\net8.0-windows\App.g.cs
+D:\1_fpt\5_su25\4_prn212\2_project\assignment-1\TranNgocKhiet_SE1854_A01\TranNgocKhietWPF\obj\Debug\net8.0-windows\TranNgocKhietWPF_MarkupCompile.cache
+D:\1_fpt\5_su25\4_prn212\2_project\assignment-1\TranNgocKhiet_SE1854_A01\TranNgocKhietWPF\obj\Debug\net8.0-windows\TranNgocKhietWPF_MarkupCompile.lref
+D:\1_fpt\5_su25\4_prn212\2_project\assignment-1\TranNgocKhiet_SE1854_A01\TranNgocKhietWPF\obj\Debug\net8.0-windows\AdminWindow.baml
+D:\1_fpt\5_su25\4_prn212\2_project\assignment-1\TranNgocKhiet_SE1854_A01\TranNgocKhietWPF\obj\Debug\net8.0-windows\BookingReservationHistoryPage.baml
+D:\1_fpt\5_su25\4_prn212\2_project\assignment-1\TranNgocKhiet_SE1854_A01\TranNgocKhietWPF\obj\Debug\net8.0-windows\CustomerDialog.baml
+D:\1_fpt\5_su25\4_prn212\2_project\assignment-1\TranNgocKhiet_SE1854_A01\TranNgocKhietWPF\obj\Debug\net8.0-windows\CustomerListPage.baml
+D:\1_fpt\5_su25\4_prn212\2_project\assignment-1\TranNgocKhiet_SE1854_A01\TranNgocKhietWPF\obj\Debug\net8.0-windows\LoginWindow.baml
+D:\1_fpt\5_su25\4_prn212\2_project\assignment-1\TranNgocKhiet_SE1854_A01\TranNgocKhietWPF\obj\Debug\net8.0-windows\RoomInformationListPage.baml
+D:\1_fpt\5_su25\4_prn212\2_project\assignment-1\TranNgocKhiet_SE1854_A01\TranNgocKhietWPF\obj\Debug\net8.0-windows\UserProfileEditPage.baml
+D:\1_fpt\5_su25\4_prn212\2_project\assignment-1\TranNgocKhiet_SE1854_A01\TranNgocKhietWPF\obj\Debug\net8.0-windows\UserWindow.baml
+D:\1_fpt\5_su25\4_prn212\2_project\assignment-1\TranNgocKhiet_SE1854_A01\TranNgocKhietWPF\obj\Debug\net8.0-windows\TranNgocKhietWPF.g.resources
+D:\1_fpt\5_su25\4_prn212\2_project\assignment-1\TranNgocKhiet_SE1854_A01\TranNgocKhietWPF\obj\Debug\net8.0-windows\TranNgocKhietWPF.GeneratedMSBuildEditorConfig.editorconfig
+D:\1_fpt\5_su25\4_prn212\2_project\assignment-1\TranNgocKhiet_SE1854_A01\TranNgocKhietWPF\obj\Debug\net8.0-windows\TranNgocKhietWPF.AssemblyInfoInputs.cache
+D:\1_fpt\5_su25\4_prn212\2_project\assignment-1\TranNgocKhiet_SE1854_A01\TranNgocKhietWPF\obj\Debug\net8.0-windows\TranNgocKhietWPF.AssemblyInfo.cs
+D:\1_fpt\5_su25\4_prn212\2_project\assignment-1\TranNgocKhiet_SE1854_A01\TranNgocKhietWPF\obj\Debug\net8.0-windows\TranNgocKhietWPF.csproj.CoreCompileInputs.cache
+D:\1_fpt\5_su25\4_prn212\2_project\assignment-1\TranNgocKhiet_SE1854_A01\TranNgocKhietWPF\obj\Debug\net8.0-windows\TranNgoc.F6F0691B.Up2Date
+D:\1_fpt\5_su25\4_prn212\2_project\assignment-1\TranNgocKhiet_SE1854_A01\TranNgocKhietWPF\obj\Debug\net8.0-windows\TranNgocKhietWPF.dll
+D:\1_fpt\5_su25\4_prn212\2_project\assignment-1\TranNgocKhiet_SE1854_A01\TranNgocKhietWPF\obj\Debug\net8.0-windows\refint\TranNgocKhietWPF.dll
+D:\1_fpt\5_su25\4_prn212\2_project\assignment-1\TranNgocKhiet_SE1854_A01\TranNgocKhietWPF\obj\Debug\net8.0-windows\TranNgocKhietWPF.pdb
+D:\1_fpt\5_su25\4_prn212\2_project\assignment-1\TranNgocKhiet_SE1854_A01\TranNgocKhietWPF\obj\Debug\net8.0-windows\TranNgocKhietWPF.genruntimeconfig.cache
+D:\1_fpt\5_su25\4_prn212\2_project\assignment-1\TranNgocKhiet_SE1854_A01\TranNgocKhietWPF\obj\Debug\net8.0-windows\ref\TranNgocKhietWPF.dll
+D:\1_fpt\5_su25\4_prn212\2_project\assignment-1\TranNgocKhiet_SE1854_A01\TranNgocKhietWPF\obj\Debug\net8.0-windows\BookingReservationReportPage.baml
+D:\1_fpt\5_su25\4_prn212\2_project\assignment-1\TranNgocKhiet_SE1854_A01\TranNgocKhietWPF\obj\Debug\net8.0-windows\BookingReservationReportPage.g.cs

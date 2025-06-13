@@ -1,0 +1,5 @@
+D:\1_fpt\5_su25\4_prn212\3_lab_assignemnt\assignment1\FUMiniHotelSystem\FUMiniHotelSystem\obj\Debug\net8.0-windows\LoginWindow.g.cs
+D:\1_fpt\5_su25\4_prn212\3_lab_assignemnt\assignment1\FUMiniHotelSystem\FUMiniHotelSystem\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\1_fpt\5_su25\4_prn212\3_lab_assignemnt\assignment1\FUMiniHotelSystem\FUMiniHotelSystem\obj\Debug\net8.0-windows\App.g.cs
+D:\1_fpt\5_su25\4_prn212\3_lab_assignemnt\assignment1\FUMiniHotelSystem\FUMiniHotelSystem\obj\Debug\net8.0-windows\FUMiniHotelSystem_MarkupCompile.cache
+D:\1_fpt\5_su25\4_prn212\3_lab_assignemnt\assignment1\FUMiniHotelSystem\FUMiniHotelSystem\obj\Debug\net8.0-windows\FUMiniHotelSystem_MarkupCompile.lref

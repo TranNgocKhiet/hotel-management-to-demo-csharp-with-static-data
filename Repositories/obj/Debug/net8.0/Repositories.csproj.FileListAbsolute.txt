@@ -1,0 +1,34 @@
+D:\1_fpt\5_su25\4_prn212\3_lab_assignemnt\assignment1 - Copy\FUMiniHotelSystem\Repositories\bin\Debug\net8.0\Repositories.deps.json
+D:\1_fpt\5_su25\4_prn212\3_lab_assignemnt\assignment1 - Copy\FUMiniHotelSystem\Repositories\bin\Debug\net8.0\Repositories.dll
+D:\1_fpt\5_su25\4_prn212\3_lab_assignemnt\assignment1 - Copy\FUMiniHotelSystem\Repositories\bin\Debug\net8.0\Repositories.pdb
+D:\1_fpt\5_su25\4_prn212\3_lab_assignemnt\assignment1 - Copy\FUMiniHotelSystem\Repositories\bin\Debug\net8.0\BusinessObjects.dll
+D:\1_fpt\5_su25\4_prn212\3_lab_assignemnt\assignment1 - Copy\FUMiniHotelSystem\Repositories\bin\Debug\net8.0\DataAccessLayer.dll
+D:\1_fpt\5_su25\4_prn212\3_lab_assignemnt\assignment1 - Copy\FUMiniHotelSystem\Repositories\bin\Debug\net8.0\BusinessObjects.pdb
+D:\1_fpt\5_su25\4_prn212\3_lab_assignemnt\assignment1 - Copy\FUMiniHotelSystem\Repositories\bin\Debug\net8.0\DataAccessLayer.pdb
+D:\1_fpt\5_su25\4_prn212\3_lab_assignemnt\assignment1 - Copy\FUMiniHotelSystem\Repositories\obj\Debug\net8.0\Repositories.csproj.AssemblyReference.cache
+D:\1_fpt\5_su25\4_prn212\3_lab_assignemnt\assignment1 - Copy\FUMiniHotelSystem\Repositories\obj\Debug\net8.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+D:\1_fpt\5_su25\4_prn212\3_lab_assignemnt\assignment1 - Copy\FUMiniHotelSystem\Repositories\obj\Debug\net8.0\Repositories.AssemblyInfoInputs.cache
+D:\1_fpt\5_su25\4_prn212\3_lab_assignemnt\assignment1 - Copy\FUMiniHotelSystem\Repositories\obj\Debug\net8.0\Repositories.AssemblyInfo.cs
+D:\1_fpt\5_su25\4_prn212\3_lab_assignemnt\assignment1 - Copy\FUMiniHotelSystem\Repositories\obj\Debug\net8.0\Repositories.csproj.CoreCompileInputs.cache
+D:\1_fpt\5_su25\4_prn212\3_lab_assignemnt\assignment1 - Copy\FUMiniHotelSystem\Repositories\obj\Debug\net8.0\Reposito.787EC4B2.Up2Date
+D:\1_fpt\5_su25\4_prn212\3_lab_assignemnt\assignment1 - Copy\FUMiniHotelSystem\Repositories\obj\Debug\net8.0\Repositories.dll
+D:\1_fpt\5_su25\4_prn212\3_lab_assignemnt\assignment1 - Copy\FUMiniHotelSystem\Repositories\obj\Debug\net8.0\refint\Repositories.dll
+D:\1_fpt\5_su25\4_prn212\3_lab_assignemnt\assignment1 - Copy\FUMiniHotelSystem\Repositories\obj\Debug\net8.0\Repositories.pdb
+D:\1_fpt\5_su25\4_prn212\3_lab_assignemnt\assignment1 - Copy\FUMiniHotelSystem\Repositories\obj\Debug\net8.0\ref\Repositories.dll
+D:\1_fpt\5_su25\4_prn212\2_project\assignment-1\TranNgocKhiet_SE1854_A01\Repositories\bin\Debug\net8.0\Repositories.deps.json
+D:\1_fpt\5_su25\4_prn212\2_project\assignment-1\TranNgocKhiet_SE1854_A01\Repositories\bin\Debug\net8.0\Repositories.dll
+D:\1_fpt\5_su25\4_prn212\2_project\assignment-1\TranNgocKhiet_SE1854_A01\Repositories\bin\Debug\net8.0\Repositories.pdb
+D:\1_fpt\5_su25\4_prn212\2_project\assignment-1\TranNgocKhiet_SE1854_A01\Repositories\bin\Debug\net8.0\BusinessObjects.dll
+D:\1_fpt\5_su25\4_prn212\2_project\assignment-1\TranNgocKhiet_SE1854_A01\Repositories\bin\Debug\net8.0\DataAccessLayer.dll
+D:\1_fpt\5_su25\4_prn212\2_project\assignment-1\TranNgocKhiet_SE1854_A01\Repositories\bin\Debug\net8.0\BusinessObjects.pdb
+D:\1_fpt\5_su25\4_prn212\2_project\assignment-1\TranNgocKhiet_SE1854_A01\Repositories\bin\Debug\net8.0\DataAccessLayer.pdb
+D:\1_fpt\5_su25\4_prn212\2_project\assignment-1\TranNgocKhiet_SE1854_A01\Repositories\obj\Debug\net8.0\Repositories.csproj.AssemblyReference.cache
+D:\1_fpt\5_su25\4_prn212\2_project\assignment-1\TranNgocKhiet_SE1854_A01\Repositories\obj\Debug\net8.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+D:\1_fpt\5_su25\4_prn212\2_project\assignment-1\TranNgocKhiet_SE1854_A01\Repositories\obj\Debug\net8.0\Repositories.AssemblyInfoInputs.cache
+D:\1_fpt\5_su25\4_prn212\2_project\assignment-1\TranNgocKhiet_SE1854_A01\Repositories\obj\Debug\net8.0\Repositories.AssemblyInfo.cs
+D:\1_fpt\5_su25\4_prn212\2_project\assignment-1\TranNgocKhiet_SE1854_A01\Repositories\obj\Debug\net8.0\Repositories.csproj.CoreCompileInputs.cache
+D:\1_fpt\5_su25\4_prn212\2_project\assignment-1\TranNgocKhiet_SE1854_A01\Repositories\obj\Debug\net8.0\Reposito.787EC4B2.Up2Date
+D:\1_fpt\5_su25\4_prn212\2_project\assignment-1\TranNgocKhiet_SE1854_A01\Repositories\obj\Debug\net8.0\Repositories.dll
+D:\1_fpt\5_su25\4_prn212\2_project\assignment-1\TranNgocKhiet_SE1854_A01\Repositories\obj\Debug\net8.0\refint\Repositories.dll
+D:\1_fpt\5_su25\4_prn212\2_project\assignment-1\TranNgocKhiet_SE1854_A01\Repositories\obj\Debug\net8.0\Repositories.pdb
+D:\1_fpt\5_su25\4_prn212\2_project\assignment-1\TranNgocKhiet_SE1854_A01\Repositories\obj\Debug\net8.0\ref\Repositories.dll
