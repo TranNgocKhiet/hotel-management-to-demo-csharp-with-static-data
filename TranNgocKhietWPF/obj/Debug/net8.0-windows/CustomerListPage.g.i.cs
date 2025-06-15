@@ -77,7 +77,7 @@ namespace TranNgocKhietWPF {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/TranNgocKhietWPF;component/customerlistpage.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/TranNgocKhietWPF;V1.0.0.0;component/customerlistpage.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\CustomerListPage.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

@@ -20,3 +20,15 @@ D:\1_fpt\5_su25\4_prn212\2_project\assignment-1\TranNgocKhiet_SE1854_A01\Busines
 D:\1_fpt\5_su25\4_prn212\2_project\assignment-1\TranNgocKhiet_SE1854_A01\BusinessObjects\obj\Debug\net8.0\refint\BusinessObjects.dll
 D:\1_fpt\5_su25\4_prn212\2_project\assignment-1\TranNgocKhiet_SE1854_A01\BusinessObjects\obj\Debug\net8.0\BusinessObjects.pdb
 D:\1_fpt\5_su25\4_prn212\2_project\assignment-1\TranNgocKhiet_SE1854_A01\BusinessObjects\obj\Debug\net8.0\ref\BusinessObjects.dll
+D:\6_github_repositories\prn212-assigment-1\hotel-management-to-demo-csharp-with-static-data\BusinessObjects\bin\Debug\net8.0\BusinessObjects.deps.json
+D:\6_github_repositories\prn212-assigment-1\hotel-management-to-demo-csharp-with-static-data\BusinessObjects\bin\Debug\net8.0\BusinessObjects.dll
+D:\6_github_repositories\prn212-assigment-1\hotel-management-to-demo-csharp-with-static-data\BusinessObjects\bin\Debug\net8.0\BusinessObjects.pdb
+D:\6_github_repositories\prn212-assigment-1\hotel-management-to-demo-csharp-with-static-data\BusinessObjects\obj\Debug\net8.0\BusinessObjects.GeneratedMSBuildEditorConfig.editorconfig
+D:\6_github_repositories\prn212-assigment-1\hotel-management-to-demo-csharp-with-static-data\BusinessObjects\obj\Debug\net8.0\BusinessObjects.AssemblyInfoInputs.cache
+D:\6_github_repositories\prn212-assigment-1\hotel-management-to-demo-csharp-with-static-data\BusinessObjects\obj\Debug\net8.0\BusinessObjects.AssemblyInfo.cs
+D:\6_github_repositories\prn212-assigment-1\hotel-management-to-demo-csharp-with-static-data\BusinessObjects\obj\Debug\net8.0\BusinessObjects.csproj.CoreCompileInputs.cache
+D:\6_github_repositories\prn212-assigment-1\hotel-management-to-demo-csharp-with-static-data\BusinessObjects\obj\Debug\net8.0\BusinessObjects.sourcelink.json
+D:\6_github_repositories\prn212-assigment-1\hotel-management-to-demo-csharp-with-static-data\BusinessObjects\obj\Debug\net8.0\BusinessObjects.dll
+D:\6_github_repositories\prn212-assigment-1\hotel-management-to-demo-csharp-with-static-data\BusinessObjects\obj\Debug\net8.0\refint\BusinessObjects.dll
+D:\6_github_repositories\prn212-assigment-1\hotel-management-to-demo-csharp-with-static-data\BusinessObjects\obj\Debug\net8.0\BusinessObjects.pdb
+D:\6_github_repositories\prn212-assigment-1\hotel-management-to-demo-csharp-with-static-data\BusinessObjects\obj\Debug\net8.0\ref\BusinessObjects.dll

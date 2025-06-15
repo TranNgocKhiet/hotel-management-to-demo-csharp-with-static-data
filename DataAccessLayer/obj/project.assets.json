@@ -608,11 +608,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\1_fpt\\5_su25\\4_prn212\\2_project\\assignment-1\\TranNgocKhiet_SE1854_A01\\DataAccessLayer\\DataAccessLayer.csproj",
+      "projectUniqueName": "D:\\6_github_repositories\\prn212-assigment-1\\hotel-management-to-demo-csharp-with-static-data\\DataAccessLayer\\DataAccessLayer.csproj",
       "projectName": "DataAccessLayer",
-      "projectPath": "D:\\1_fpt\\5_su25\\4_prn212\\2_project\\assignment-1\\TranNgocKhiet_SE1854_A01\\DataAccessLayer\\DataAccessLayer.csproj",
+      "projectPath": "D:\\6_github_repositories\\prn212-assigment-1\\hotel-management-to-demo-csharp-with-static-data\\DataAccessLayer\\DataAccessLayer.csproj",
       "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
-      "outputPath": "D:\\1_fpt\\5_su25\\4_prn212\\2_project\\assignment-1\\TranNgocKhiet_SE1854_A01\\DataAccessLayer\\obj\\",
+      "outputPath": "D:\\6_github_repositories\\prn212-assigment-1\\hotel-management-to-demo-csharp-with-static-data\\DataAccessLayer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -633,8 +633,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\1_fpt\\5_su25\\4_prn212\\2_project\\assignment-1\\TranNgocKhiet_SE1854_A01\\BusinessObjects\\BusinessObjects.csproj": {
-              "projectPath": "D:\\1_fpt\\5_su25\\4_prn212\\2_project\\assignment-1\\TranNgocKhiet_SE1854_A01\\BusinessObjects\\BusinessObjects.csproj"
+            "D:\\6_github_repositories\\prn212-assigment-1\\hotel-management-to-demo-csharp-with-static-data\\BusinessObjects\\BusinessObjects.csproj": {
+              "projectPath": "D:\\6_github_repositories\\prn212-assigment-1\\hotel-management-to-demo-csharp-with-static-data\\BusinessObjects\\BusinessObjects.csproj"
             }
           }
         }

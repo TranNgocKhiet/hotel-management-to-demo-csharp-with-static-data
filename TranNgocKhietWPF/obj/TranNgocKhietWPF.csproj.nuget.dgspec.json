@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\1_fpt\\5_su25\\4_prn212\\2_project\\assignment-1\\TranNgocKhiet_SE1854_A01\\TranNgocKhietWPF\\TranNgocKhietWPF.csproj": {}
+    "D:\\6_github_repositories\\prn212-assigment-1\\hotel-management-to-demo-csharp-with-static-data\\TranNgocKhietWPF\\TranNgocKhietWPF.csproj": {}
   },
   "projects": {
-    "D:\\1_fpt\\5_su25\\4_prn212\\2_project\\assignment-1\\TranNgocKhiet_SE1854_A01\\BusinessObjects\\BusinessObjects.csproj": {
+    "D:\\6_github_repositories\\prn212-assigment-1\\hotel-management-to-demo-csharp-with-static-data\\BusinessObjects\\BusinessObjects.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\1_fpt\\5_su25\\4_prn212\\2_project\\assignment-1\\TranNgocKhiet_SE1854_A01\\BusinessObjects\\BusinessObjects.csproj",
+        "projectUniqueName": "D:\\6_github_repositories\\prn212-assigment-1\\hotel-management-to-demo-csharp-with-static-data\\BusinessObjects\\BusinessObjects.csproj",
         "projectName": "BusinessObjects",
-        "projectPath": "D:\\1_fpt\\5_su25\\4_prn212\\2_project\\assignment-1\\TranNgocKhiet_SE1854_A01\\BusinessObjects\\BusinessObjects.csproj",
+        "projectPath": "D:\\6_github_repositories\\prn212-assigment-1\\hotel-management-to-demo-csharp-with-static-data\\BusinessObjects\\BusinessObjects.csproj",
         "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
-        "outputPath": "D:\\1_fpt\\5_su25\\4_prn212\\2_project\\assignment-1\\TranNgocKhiet_SE1854_A01\\BusinessObjects\\obj\\",
+        "outputPath": "D:\\6_github_repositories\\prn212-assigment-1\\hotel-management-to-demo-csharp-with-static-data\\BusinessObjects\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -69,14 +69,14 @@
         }
       }
     },
-    "D:\\1_fpt\\5_su25\\4_prn212\\2_project\\assignment-1\\TranNgocKhiet_SE1854_A01\\DataAccessLayer\\DataAccessLayer.csproj": {
+    "D:\\6_github_repositories\\prn212-assigment-1\\hotel-management-to-demo-csharp-with-static-data\\DataAccessLayer\\DataAccessLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\1_fpt\\5_su25\\4_prn212\\2_project\\assignment-1\\TranNgocKhiet_SE1854_A01\\DataAccessLayer\\DataAccessLayer.csproj",
+        "projectUniqueName": "D:\\6_github_repositories\\prn212-assigment-1\\hotel-management-to-demo-csharp-with-static-data\\DataAccessLayer\\DataAccessLayer.csproj",
         "projectName": "DataAccessLayer",
-        "projectPath": "D:\\1_fpt\\5_su25\\4_prn212\\2_project\\assignment-1\\TranNgocKhiet_SE1854_A01\\DataAccessLayer\\DataAccessLayer.csproj",
+        "projectPath": "D:\\6_github_repositories\\prn212-assigment-1\\hotel-management-to-demo-csharp-with-static-data\\DataAccessLayer\\DataAccessLayer.csproj",
         "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
-        "outputPath": "D:\\1_fpt\\5_su25\\4_prn212\\2_project\\assignment-1\\TranNgocKhiet_SE1854_A01\\DataAccessLayer\\obj\\",
+        "outputPath": "D:\\6_github_repositories\\prn212-assigment-1\\hotel-management-to-demo-csharp-with-static-data\\DataAccessLayer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -97,8 +97,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\1_fpt\\5_su25\\4_prn212\\2_project\\assignment-1\\TranNgocKhiet_SE1854_A01\\BusinessObjects\\BusinessObjects.csproj": {
-                "projectPath": "D:\\1_fpt\\5_su25\\4_prn212\\2_project\\assignment-1\\TranNgocKhiet_SE1854_A01\\BusinessObjects\\BusinessObjects.csproj"
+              "D:\\6_github_repositories\\prn212-assigment-1\\hotel-management-to-demo-csharp-with-static-data\\BusinessObjects\\BusinessObjects.csproj": {
+                "projectPath": "D:\\6_github_repositories\\prn212-assigment-1\\hotel-management-to-demo-csharp-with-static-data\\BusinessObjects\\BusinessObjects.csproj"
               }
             }
           }
@@ -152,14 +152,14 @@
         }
       }
     },
-    "D:\\1_fpt\\5_su25\\4_prn212\\2_project\\assignment-1\\TranNgocKhiet_SE1854_A01\\Repositories\\Repositories.csproj": {
+    "D:\\6_github_repositories\\prn212-assigment-1\\hotel-management-to-demo-csharp-with-static-data\\Repositories\\Repositories.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\1_fpt\\5_su25\\4_prn212\\2_project\\assignment-1\\TranNgocKhiet_SE1854_A01\\Repositories\\Repositories.csproj",
+        "projectUniqueName": "D:\\6_github_repositories\\prn212-assigment-1\\hotel-management-to-demo-csharp-with-static-data\\Repositories\\Repositories.csproj",
         "projectName": "Repositories",
-        "projectPath": "D:\\1_fpt\\5_su25\\4_prn212\\2_project\\assignment-1\\TranNgocKhiet_SE1854_A01\\Repositories\\Repositories.csproj",
+        "projectPath": "D:\\6_github_repositories\\prn212-assigment-1\\hotel-management-to-demo-csharp-with-static-data\\Repositories\\Repositories.csproj",
         "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
-        "outputPath": "D:\\1_fpt\\5_su25\\4_prn212\\2_project\\assignment-1\\TranNgocKhiet_SE1854_A01\\Repositories\\obj\\",
+        "outputPath": "D:\\6_github_repositories\\prn212-assigment-1\\hotel-management-to-demo-csharp-with-static-data\\Repositories\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -180,11 +180,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\1_fpt\\5_su25\\4_prn212\\2_project\\assignment-1\\TranNgocKhiet_SE1854_A01\\BusinessObjects\\BusinessObjects.csproj": {
-                "projectPath": "D:\\1_fpt\\5_su25\\4_prn212\\2_project\\assignment-1\\TranNgocKhiet_SE1854_A01\\BusinessObjects\\BusinessObjects.csproj"
+              "D:\\6_github_repositories\\prn212-assigment-1\\hotel-management-to-demo-csharp-with-static-data\\BusinessObjects\\BusinessObjects.csproj": {
+                "projectPath": "D:\\6_github_repositories\\prn212-assigment-1\\hotel-management-to-demo-csharp-with-static-data\\BusinessObjects\\BusinessObjects.csproj"
               },
-              "D:\\1_fpt\\5_su25\\4_prn212\\2_project\\assignment-1\\TranNgocKhiet_SE1854_A01\\DataAccessLayer\\DataAccessLayer.csproj": {
-                "projectPath": "D:\\1_fpt\\5_su25\\4_prn212\\2_project\\assignment-1\\TranNgocKhiet_SE1854_A01\\DataAccessLayer\\DataAccessLayer.csproj"
+              "D:\\6_github_repositories\\prn212-assigment-1\\hotel-management-to-demo-csharp-with-static-data\\DataAccessLayer\\DataAccessLayer.csproj": {
+                "projectPath": "D:\\6_github_repositories\\prn212-assigment-1\\hotel-management-to-demo-csharp-with-static-data\\DataAccessLayer\\DataAccessLayer.csproj"
               }
             }
           }
@@ -224,14 +224,14 @@
         }
       }
     },
-    "D:\\1_fpt\\5_su25\\4_prn212\\2_project\\assignment-1\\TranNgocKhiet_SE1854_A01\\Services\\Services.csproj": {
+    "D:\\6_github_repositories\\prn212-assigment-1\\hotel-management-to-demo-csharp-with-static-data\\Services\\Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\1_fpt\\5_su25\\4_prn212\\2_project\\assignment-1\\TranNgocKhiet_SE1854_A01\\Services\\Services.csproj",
+        "projectUniqueName": "D:\\6_github_repositories\\prn212-assigment-1\\hotel-management-to-demo-csharp-with-static-data\\Services\\Services.csproj",
         "projectName": "Services",
-        "projectPath": "D:\\1_fpt\\5_su25\\4_prn212\\2_project\\assignment-1\\TranNgocKhiet_SE1854_A01\\Services\\Services.csproj",
+        "projectPath": "D:\\6_github_repositories\\prn212-assigment-1\\hotel-management-to-demo-csharp-with-static-data\\Services\\Services.csproj",
         "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
-        "outputPath": "D:\\1_fpt\\5_su25\\4_prn212\\2_project\\assignment-1\\TranNgocKhiet_SE1854_A01\\Services\\obj\\",
+        "outputPath": "D:\\6_github_repositories\\prn212-assigment-1\\hotel-management-to-demo-csharp-with-static-data\\Services\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -252,14 +252,14 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\1_fpt\\5_su25\\4_prn212\\2_project\\assignment-1\\TranNgocKhiet_SE1854_A01\\BusinessObjects\\BusinessObjects.csproj": {
-                "projectPath": "D:\\1_fpt\\5_su25\\4_prn212\\2_project\\assignment-1\\TranNgocKhiet_SE1854_A01\\BusinessObjects\\BusinessObjects.csproj"
+              "D:\\6_github_repositories\\prn212-assigment-1\\hotel-management-to-demo-csharp-with-static-data\\BusinessObjects\\BusinessObjects.csproj": {
+                "projectPath": "D:\\6_github_repositories\\prn212-assigment-1\\hotel-management-to-demo-csharp-with-static-data\\BusinessObjects\\BusinessObjects.csproj"
               },
-              "D:\\1_fpt\\5_su25\\4_prn212\\2_project\\assignment-1\\TranNgocKhiet_SE1854_A01\\DataAccessLayer\\DataAccessLayer.csproj": {
-                "projectPath": "D:\\1_fpt\\5_su25\\4_prn212\\2_project\\assignment-1\\TranNgocKhiet_SE1854_A01\\DataAccessLayer\\DataAccessLayer.csproj"
+              "D:\\6_github_repositories\\prn212-assigment-1\\hotel-management-to-demo-csharp-with-static-data\\DataAccessLayer\\DataAccessLayer.csproj": {
+                "projectPath": "D:\\6_github_repositories\\prn212-assigment-1\\hotel-management-to-demo-csharp-with-static-data\\DataAccessLayer\\DataAccessLayer.csproj"
               },
-              "D:\\1_fpt\\5_su25\\4_prn212\\2_project\\assignment-1\\TranNgocKhiet_SE1854_A01\\Repositories\\Repositories.csproj": {
-                "projectPath": "D:\\1_fpt\\5_su25\\4_prn212\\2_project\\assignment-1\\TranNgocKhiet_SE1854_A01\\Repositories\\Repositories.csproj"
+              "D:\\6_github_repositories\\prn212-assigment-1\\hotel-management-to-demo-csharp-with-static-data\\Repositories\\Repositories.csproj": {
+                "projectPath": "D:\\6_github_repositories\\prn212-assigment-1\\hotel-management-to-demo-csharp-with-static-data\\Repositories\\Repositories.csproj"
               }
             }
           }
@@ -299,14 +299,14 @@
         }
       }
     },
-    "D:\\1_fpt\\5_su25\\4_prn212\\2_project\\assignment-1\\TranNgocKhiet_SE1854_A01\\TranNgocKhietWPF\\TranNgocKhietWPF.csproj": {
+    "D:\\6_github_repositories\\prn212-assigment-1\\hotel-management-to-demo-csharp-with-static-data\\TranNgocKhietWPF\\TranNgocKhietWPF.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\1_fpt\\5_su25\\4_prn212\\2_project\\assignment-1\\TranNgocKhiet_SE1854_A01\\TranNgocKhietWPF\\TranNgocKhietWPF.csproj",
+        "projectUniqueName": "D:\\6_github_repositories\\prn212-assigment-1\\hotel-management-to-demo-csharp-with-static-data\\TranNgocKhietWPF\\TranNgocKhietWPF.csproj",
         "projectName": "TranNgocKhietWPF",
-        "projectPath": "D:\\1_fpt\\5_su25\\4_prn212\\2_project\\assignment-1\\TranNgocKhiet_SE1854_A01\\TranNgocKhietWPF\\TranNgocKhietWPF.csproj",
+        "projectPath": "D:\\6_github_repositories\\prn212-assigment-1\\hotel-management-to-demo-csharp-with-static-data\\TranNgocKhietWPF\\TranNgocKhietWPF.csproj",
         "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
-        "outputPath": "D:\\1_fpt\\5_su25\\4_prn212\\2_project\\assignment-1\\TranNgocKhiet_SE1854_A01\\TranNgocKhietWPF\\obj\\",
+        "outputPath": "D:\\6_github_repositories\\prn212-assigment-1\\hotel-management-to-demo-csharp-with-static-data\\TranNgocKhietWPF\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -327,14 +327,14 @@
           "net8.0-windows7.0": {
             "targetAlias": "net8.0-windows",
             "projectReferences": {
-              "D:\\1_fpt\\5_su25\\4_prn212\\2_project\\assignment-1\\TranNgocKhiet_SE1854_A01\\BusinessObjects\\BusinessObjects.csproj": {
-                "projectPath": "D:\\1_fpt\\5_su25\\4_prn212\\2_project\\assignment-1\\TranNgocKhiet_SE1854_A01\\BusinessObjects\\BusinessObjects.csproj"
+              "D:\\6_github_repositories\\prn212-assigment-1\\hotel-management-to-demo-csharp-with-static-data\\BusinessObjects\\BusinessObjects.csproj": {
+                "projectPath": "D:\\6_github_repositories\\prn212-assigment-1\\hotel-management-to-demo-csharp-with-static-data\\BusinessObjects\\BusinessObjects.csproj"
               },
-              "D:\\1_fpt\\5_su25\\4_prn212\\2_project\\assignment-1\\TranNgocKhiet_SE1854_A01\\Repositories\\Repositories.csproj": {
-                "projectPath": "D:\\1_fpt\\5_su25\\4_prn212\\2_project\\assignment-1\\TranNgocKhiet_SE1854_A01\\Repositories\\Repositories.csproj"
+              "D:\\6_github_repositories\\prn212-assigment-1\\hotel-management-to-demo-csharp-with-static-data\\Repositories\\Repositories.csproj": {
+                "projectPath": "D:\\6_github_repositories\\prn212-assigment-1\\hotel-management-to-demo-csharp-with-static-data\\Repositories\\Repositories.csproj"
               },
-              "D:\\1_fpt\\5_su25\\4_prn212\\2_project\\assignment-1\\TranNgocKhiet_SE1854_A01\\Services\\Services.csproj": {
-                "projectPath": "D:\\1_fpt\\5_su25\\4_prn212\\2_project\\assignment-1\\TranNgocKhiet_SE1854_A01\\Services\\Services.csproj"
+              "D:\\6_github_repositories\\prn212-assigment-1\\hotel-management-to-demo-csharp-with-static-data\\Services\\Services.csproj": {
+                "projectPath": "D:\\6_github_repositories\\prn212-assigment-1\\hotel-management-to-demo-csharp-with-static-data\\Services\\Services.csproj"
               }
             }
           }
